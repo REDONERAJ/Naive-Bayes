@@ -56,13 +56,18 @@ The app predicts one of:
 ---
 
 ## 📦 Requirements
+
 Flask
 scikit-learn
 pandas
 joblib
+
 ---
 
 ## 📷 Screenshot
+<img width="1366" height="647" alt="Screenshot 2025-08-11 210634" src="https://github.com/user-attachments/assets/468889ec-8fa7-4885-bf40-af43047c3d51" />
+<img width="1366" height="647" alt="Screenshot 2025-08-11 210703" src="https://github.com/user-attachments/assets/04e51f9d-d08e-4851-97bd-a34ce34f6346" />
+<img width="1366" height="654" alt="Screenshot 2025-08-11 210713" src="https://github.com/user-attachments/assets/8347b894-ca93-4b9b-91d8-49060dcd6fe8" />
 
 
 ---
