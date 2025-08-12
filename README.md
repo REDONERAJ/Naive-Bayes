@@ -10,7 +10,7 @@ The model classifies cars into one of four categories:
 
 ---
 
-## 🔹 Features
+##  Features
 - Categorical Naive Bayes classifier
 - Simple web interface with dropdown menus for all features
 - Instant prediction of car acceptability
@@ -18,7 +18,7 @@ The model classifies cars into one of four categories:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```car-evaluation-naive-bayes/
 │
 ├── app.py # Flask application
@@ -32,7 +32,7 @@ The model classifies cars into one of four categories:
 
 ---
 
-## 📊 Dataset
+## Dataset
 - **Source:** [UCI Machine Learning Repository – Car Evaluation Dataset](https://archive.ics.uci.edu/ml/datasets/car+evaluation)
 - **Instances:** 1,728
 - **Features:**  
@@ -46,7 +46,7 @@ The model classifies cars into one of four categories:
 
 ---
 
-## 🖥 Prediction Output
+## Prediction Output
 The app predicts one of:
 - **unacc** – Unacceptable  
 - **acc** – Acceptable  
@@ -55,7 +55,7 @@ The app predicts one of:
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Flask
 scikit-learn
@@ -64,7 +64,7 @@ joblib
 
 ---
 
-## 📷 Screenshot
+## Screenshot
 <img width="1366" height="647" alt="Screenshot 2025-08-11 210634" src="https://github.com/user-attachments/assets/468889ec-8fa7-4885-bf40-af43047c3d51" />
 <img width="1366" height="647" alt="Screenshot 2025-08-11 210703" src="https://github.com/user-attachments/assets/04e51f9d-d08e-4851-97bd-a34ce34f6346" />
 <img width="1366" height="654" alt="Screenshot 2025-08-11 210713" src="https://github.com/user-attachments/assets/8347b894-ca93-4b9b-91d8-49060dcd6fe8" />
